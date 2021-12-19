@@ -39,13 +39,13 @@ function check() {
 						alert("Welcome my Load!");
 						window.location.href="users/HG.html"
 					}
-					else if(a=="1240579929@qq.com"){
+					else if(a=="1240579929@qq.com"&&b=="WACHGHHHHH"){
 					    alert("Welcome!");
 							window.location.href="users/1240579929@qq.com.html"}
-					else if(a=="?"){
+					else if(a=="?"&&b=="110"){
 					    alert("Welcome  巅峰召唤师!");
 							window.location.href="users/hg@hg.com.html"}
-					else if(a=="1220090106@qq.com"){
+					else if(a=="1220090106@qq.com"&&b=="cl269268"){
 						window.location.href="users/1220090106@qq.com.html"}
 					else if(b==""){
 						alert("No Password!\nOpening the Alive-Model.");
